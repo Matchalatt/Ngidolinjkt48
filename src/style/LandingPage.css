@@ -1,0 +1,156 @@
+.myBG {
+    height: 100vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+
+.Home {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.title {
+    color: seashell;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1;
+    letter-spacing: 2px;
+
+}
+
+.Navbrand{
+    color:seashell;
+}
+
+
+
+.Member {
+    height: auto;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.navFont {
+    color:azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+
+.Navbar {
+    background-color:rgb(248, 33, 33);
+    
+}
+
+.jkt48Image {
+    width: auto;
+    height: auto;
+    margin: 4px;
+    padding: 4px;
+}
+
+.Profile {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+
+.Profile2 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.Profile3 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.Profile4 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.Profile5 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.Profile6 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.Profile7 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.Profile8 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.Profile1 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.Profile9 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.Profile10 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.Profile11 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.Profile12 {
+    height:140vh;
+    background:rgb(248, 33, 33);
+    background-size: cover;
+}
+.fImage {
+    width:auto;
+    height:auto;
+}
+.textfiony {
+    color:rgb(248, 33, 33);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.fImage1 {
+    width:auto;
+    height:auto;
+    margin: 3px;
+    padding: 3px;
+
+    
+}
+
+.judul {
+    text-decoration-line: underline;
+    color: seashell;
+    text-decoration-style: solid;
+    text-indent: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+
+
+
